@@ -19,7 +19,7 @@ To get started with the solutions, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone [https://github.com/ahmed-amr-salah/coding-challenges-repo.git](https://github.com/ahmed-amr-salah/coding-challenges.git)
+   git clone https://github.com/ahmed-amr-salah/coding-challenges-repo.git
 
 # Contributing
 Ahmed Amr Salah - [Linkedin](https://www.linkedin.com/in/ahmed-amr-salah-ab77961b8/). - aahmedamr221201@aucegypt.edu  <br>
